@@ -9,7 +9,7 @@ This project is a Number-to-English and English-to-Number converter implemented 
 * Support for decimal precision: The converter can handle up to five decimal places for both conversions.
 
 ## Installation
-Download the exe file from releases.
+Download the Converter.exe file from releases.
 
 ## Usage
 
