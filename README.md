@@ -12,11 +12,9 @@ This project is a Number-to-English and English-to-Number converter implemented 
 Download the Converter.exe file from releases.
 
 ## Usage
-
+After running Converter.exe file, use tabs "N2E" and "E2N" to swap between the two converters.
 ## Limitations
 * The converters are designed to handle numbers within the range of 0 to 9,223,372,036,854,775,807. Numbers outside this range may produce and error message.
 * The precision for number-to-English conversion is limited to five decimal places. Any additional decimal places will produce an error.
 * The English-to-Number Converters has a strict guideline for input. Please see the help section for that converter for more info.
 
-
-Developed in Fall '22
