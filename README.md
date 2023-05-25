@@ -8,6 +8,9 @@ This project is a Number-to-English and English-to-Number converter implemented 
 * Conversion of English words to numbers: Convert English words representing numbers back to their numerical value.
 * Support for decimal precision: The converter can handle up to five decimal places for both conversions.
 
+## Requirements
+Windows 10/11
+
 ## Installation
 Download and extract the Converter.zip file from releases. Run converter.exe file.
 
